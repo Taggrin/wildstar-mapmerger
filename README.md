@@ -14,6 +14,6 @@ Feel free to use for extracting purposes. Nexus Forever!
 * Load -> ClientData.index (found in your WildStar/Patch directory)
 * Select "maps" or a subselection of it
 * Extract filtered -> only extract .tex files with convert to .bmp enabled
-* Launch mapmergery.py
+* Launch mapmerger.py
 * Give the path to the tileset and give it a minute...
 * Enjoy your merged images, they appear in the Out directory
